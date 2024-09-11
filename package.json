@@ -1,0 +1,8 @@
+{
+  "name": "rest-monorepo",
+  "private": "true",
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
